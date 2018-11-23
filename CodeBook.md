@@ -22,6 +22,8 @@ Tidy Dataset Description:
 
 Tidy data contain 180 rows and 88 columns. Each row has the average variables for each subject and each activity.
 
+only the variable estimated from Mean and Standard Deviation are in Tidy dataset
+
 
 •	Data Average Based on subject and Activity Group
 
@@ -49,4 +51,4 @@ Description about run_analysis.R-
 5.	Used descriptive activity names to name the activities in the data set
 6.	Appropriately labeled  the data set with descriptive variable names
 7.	Created  a second, independent tidy data set with the average of each variable for each activity and each subject.(ie. “tidydata”)
-•	Stored the tidydata dataset in .txt 
+8.  Stored the tidydata dataset in .txt 
